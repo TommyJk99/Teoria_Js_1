@@ -1,0 +1,5 @@
+What is the DOM?
+DOM = Document object model 
+DOM is structured as a tree. The DOCUMENT stay on top and the we have the html followed by the branch of the head and the body etc.
+
+
